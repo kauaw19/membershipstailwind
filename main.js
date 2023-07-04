@@ -21,11 +21,10 @@ function monthPrices() {
   planTypeAnnual.textContent = "/month";
   priceMonth.textContent = "$24";
   planTypeMonth.textContent = "/month";
-
 }
 function annualPrices() {
-  priceAnnual.textContent = "$99.99";
+  priceAnnual.textContent = "$360";
   planTypeAnnual.textContent = "/year";
-  priceMonth.textContent = "$59.99";
+  priceMonth.textContent = "$240";
   planTypeMonth.textContent = "/year";
 }
